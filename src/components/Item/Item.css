@@ -1,0 +1,10 @@
+.item {
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 5px 5px 22px #848484,
+        -5px -5px 22px #ffffff;
+}
+
+p {
+    font-family: serif;
+}

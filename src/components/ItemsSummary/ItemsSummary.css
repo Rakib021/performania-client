@@ -1,0 +1,12 @@
+.items-summary {
+    /* background-image: url('https://i.ibb.co/Xbvf3HJ/photo-1515377905703-c4788e51af15-1.jpg');
+    background-repeat: no-repeat; */
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 8%, rgba(9, 9, 121, 1) 40%, rgba(75, 88, 250, 1) 65%, rgba(120, 109, 150, 1) 83%);
+
+}
+
+.font-icon {
+    font-size: 60px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,13 @@
+.addItem-container {
+    border-radius: 15px;
+    background: #e0e0e0;
+    box-shadow: 10px 10px 100px #777777,
+        -10px -10px 100px #ffffff;
+}
+
+.input-field {
+    border-radius: 53px;
+    background: #e0e0e0;
+    box-shadow: inset 9px 9px 18px #cecece,
+        inset -9px -9px 18px #f2f2f2;
+}
